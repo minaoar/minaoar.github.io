@@ -15,3 +15,8 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
+
+gem "webrick", "~> 1.7"
+gem "exec", "~> 0.0.3"
+gem "jekyll", "~> 3.9"
+gem "serve", "~> 1.5"
