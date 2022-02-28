@@ -17,9 +17,9 @@ title: Minaoar Hossain Tanzil
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Reflection on personal opinion and professional experience.
-twitter_username: username
+twitter_username: TanzilMH
 github_username: minaoar
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -62,16 +62,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "http://minaoar.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TanzilMH"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/minaoar"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/minaoar/"
 
 footer:
   links:
