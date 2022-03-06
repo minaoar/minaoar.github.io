@@ -73,6 +73,14 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/minaoar/"
 
+    # - label: "Posts"
+    #   url: /posts/
+    # - label: "Categories"
+    #   url: /categories/
+    # - label: "Tags"
+    #   url: /tags/
+    # - label: "About"
+    #   url: /about/
 footer:
   links:
     - label: "Twitter"
