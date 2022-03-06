@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-A builder, a developer of software, product, team, and business.
-
-A son, a husband. Father of a son, father of a teenage daughter.
+A developer by heart.
+I develop software.
+I develop teams.
+I develop product.
+I develop business.
+I develop culture.
+I develop organization.
